@@ -25,12 +25,10 @@ public class Cercle  extends Figure{
     public void setRayon(double rayon) {
         this.rayon = rayon;
     }
-
     @Override
     public double CalculePerimetre() {
         return 2 *Math.PI * rayon ;
     }
-
     @Override
     public double CalculeSurface() {
         return Math.PI * rayon *rayon;

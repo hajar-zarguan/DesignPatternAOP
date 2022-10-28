@@ -53,7 +53,9 @@ public class Rectangle extends Figure{
 
     @Override
     public void AfficherFigure() {
-
+        System.out.println( "\tRectangle : L ="+L+ "; H ="+H);
+        System.out.println( "\t\tSurface :"+ CalculeSurface());
+        System.out.println( "\t\tPerimetre :"+ CalculePerimetre());
     }
 
     @Override
