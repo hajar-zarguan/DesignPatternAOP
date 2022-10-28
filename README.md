@@ -1,8 +1,7 @@
 # DesignPattern
 
-
 ## Diagramme de classe 
-![image](https://user-images.githubusercontent.com/82539023/198561477-6b516007-c4df-4df7-b6cb-28ea981ad543.png)
+![image](https://user-images.githubusercontent.com/82539023/198571101-396ec6b4-93cb-444f-93ab-9b1537c6673b.png)
 
 ## Consignes
 On souhaite concevoir et développer une application qui permet manipuler des dessins. Un Dessin
@@ -19,12 +18,11 @@ vaut 2 *(L+H)
 - Donner la possibilité de Créer un groupe de figures. Chaque groupe peut contenir d’autres
 groupes.  
 -- Composite
-![image](https://user-images.githubusercontent.com/82539023/198566111-acdff8b2-a2c1-4772-9b44-4fec44e129ef.png)
-
+![image](https://user-images.githubusercontent.com/82539023/198570590-6d0a985a-f149-4508-87c1-377c8ad584a6.png)
 --- Implementation 
 
 -- Figure
-![image](https://user-images.githubusercontent.com/82539023/198567136-81ef56ea-cb3e-488c-a6fb-00001dd75ffd.png)
+![image](https://user-images.githubusercontent.com/82539023/198571002-e05861f7-b166-4c46-a98f-f3135abf053d.png)
 
 -- Cercle
 ![image](https://user-images.githubusercontent.com/82539023/198567068-d3f760e8-3ce6-4cd8-9049-31929c54654a.png)
@@ -39,7 +37,7 @@ l’épaisseur du contour, la couleur du contour et la couleur de remplissage. O
 chaque fois que l’état de cet objet change, toutes les figures doivent être notifiées pour se
 mettre à jour.
 -- Observer 
-![image](https://user-images.githubusercontent.com/82539023/198568193-9869761a-a0ed-48f8-ae3f-aa62cbe345ec.png)
+![image](https://user-images.githubusercontent.com/82539023/198571380-d3532af9-1750-474e-89e0-c9daee00928e.png)
 
 -- Implementation
 ![image](https://user-images.githubusercontent.com/82539023/198567855-1af7fbfe-1b6f-43b6-87ed-9a140c42e742.png)
@@ -57,5 +55,4 @@ qui les utilise.
  - Une méthode qui permet de sérialiser le dessin dans un fichier binaire
  
  --- Strategy
- ![image](https://user-images.githubusercontent.com/82539023/198568555-8cc8c688-760b-43c6-856f-9c0833dd6a27.png)
-
+![image](https://user-images.githubusercontent.com/82539023/198571629-2b74a4b0-4e8c-4349-a94e-4b1278915f3b.png)
