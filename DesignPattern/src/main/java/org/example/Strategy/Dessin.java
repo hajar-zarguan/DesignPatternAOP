@@ -6,7 +6,6 @@ import java.util.List;
 
 public class Dessin {
     List<Figure> figureList ;
-
     int id ;
     String nomDessin ;
 
@@ -41,13 +40,19 @@ public class Dessin {
     }
 
     public Dessin() {
-
     }
-
     public  void Traiter(StrategieTraitement strategieTraitement){}
-    public  void AjouterFigure(Figure f){}
-    public  void AfficherDessin(Figure f){}
-    public  void SupprimerFigure(Figure f){}
+    public  void AjouterFigure(Figure f){
+        figureList.add(f);
+    }
+    public  void AfficherDessin(){
+        for (Figure figure: figureList ) {
+            figure.AfficherFigure();
+        }
+    }
+    public  void SupprimerFigure(Figure f){
+        figureList.remove(f);
+    }
 
 
 }
