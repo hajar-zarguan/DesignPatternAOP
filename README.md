@@ -22,7 +22,8 @@ groupes.
 --- Implementation 
 
 -- Figure
-![image](https://user-images.githubusercontent.com/82539023/198571002-e05861f7-b166-4c46-a98f-f3135abf053d.png)
+![image](https://user-images.githubusercontent.com/82539023/198575757-287f0daa-a80b-4f67-8df0-1b97a566ac26.png)
+
 
 -- Cercle
 ![image](https://user-images.githubusercontent.com/82539023/198567068-d3f760e8-3ce6-4cd8-9049-31929c54654a.png)
@@ -63,6 +64,11 @@ qui les utilise.
 
 -- Dessin 
 ![Capture](https://user-images.githubusercontent.com/82539023/198574279-6e75d748-c8fd-4607-a981-60e9fae5ab85.PNG)
+
+
+
+## Test 
+![image](https://user-images.githubusercontent.com/82539023/198575436-e0cf2bd6-755f-4d93-a28f-e365313baef8.png)
 
 
 
