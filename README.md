@@ -2,5 +2,6 @@
 
 
 ## Diagramme de classe 
+![image](https://user-images.githubusercontent.com/82539023/198552708-05f6ba0b-f2de-49ce-a988-d1b3f2271a53.png)
 
-![Diagramme de classe](https://user-images.githubusercontent.com/82539023/198547996-387ef0b2-4ca5-46be-a47c-2228dac632d8.PNG)
+
