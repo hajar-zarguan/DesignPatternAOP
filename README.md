@@ -37,7 +37,7 @@ l’épaisseur du contour, la couleur du contour et la couleur de remplissage. O
 chaque fois que l’état de cet objet change, toutes les figures doivent être notifiées pour se
 mettre à jour.
 -- Observer 
-![image](https://user-images.githubusercontent.com/82539023/198568193-9869761a-a0ed-48f8-ae3f-aa62cbe345ec.png)
+![image](https://user-images.githubusercontent.com/82539023/198571380-d3532af9-1750-474e-89e0-c9daee00928e.png)
 
 -- Implementation
 ![image](https://user-images.githubusercontent.com/82539023/198567855-1af7fbfe-1b6f-43b6-87ed-9a140c42e742.png)
@@ -55,5 +55,4 @@ qui les utilise.
  - Une méthode qui permet de sérialiser le dessin dans un fichier binaire
  
  --- Strategy
- ![image](https://user-images.githubusercontent.com/82539023/198568555-8cc8c688-760b-43c6-856f-9c0833dd6a27.png)
-
+![image](https://user-images.githubusercontent.com/82539023/198571629-2b74a4b0-4e8c-4349-a94e-4b1278915f3b.png)
