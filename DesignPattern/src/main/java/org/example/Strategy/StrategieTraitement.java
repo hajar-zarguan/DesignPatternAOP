@@ -1,2 +1,5 @@
-package org.example.Strategy;public interface inter {
+package org.example.Strategy;
+
+public interface StrategieTraitement {
+    public  void OperationTraitement();
 }

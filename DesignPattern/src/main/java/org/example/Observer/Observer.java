@@ -1,4 +1,7 @@
 package org.example.Observer;
 
-public class observer {
+
+public interface Observer {
+
+   public void update(Observable  obs );
 }
