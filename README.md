@@ -30,6 +30,9 @@ groupes.
 -- Rectangle 
 ![image](https://user-images.githubusercontent.com/82539023/198567408-7b65b79f-a357-4469-9158-4002b262e8df.png)
 
+-- Groupe
+![image](https://user-images.githubusercontent.com/82539023/198572659-a7bbc05f-2407-4fcc-8335-bcf6487bc127.png)
+
 
 
 - Nous introduisons un Objet Paramétrage dont l’état est défini par attributs par défaut comme
@@ -56,3 +59,7 @@ qui les utilise.
  
  --- Strategy
 ![image](https://user-images.githubusercontent.com/82539023/198571629-2b74a4b0-4e8c-4349-a94e-4b1278915f3b.png)
+
+
+-- Dessin 
+
