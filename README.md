@@ -22,13 +22,17 @@ groupes.
 --- Implementation 
 
 -- Figure
-![image](https://user-images.githubusercontent.com/82539023/198571002-e05861f7-b166-4c46-a98f-f3135abf053d.png)
+![image](https://user-images.githubusercontent.com/82539023/198575757-287f0daa-a80b-4f67-8df0-1b97a566ac26.png)
+
 
 -- Cercle
 ![image](https://user-images.githubusercontent.com/82539023/198567068-d3f760e8-3ce6-4cd8-9049-31929c54654a.png)
 
 -- Rectangle 
 ![image](https://user-images.githubusercontent.com/82539023/198567408-7b65b79f-a357-4469-9158-4002b262e8df.png)
+
+-- Groupe
+![image](https://user-images.githubusercontent.com/82539023/198572659-a7bbc05f-2407-4fcc-8335-bcf6487bc127.png)
 
 
 
@@ -40,8 +44,7 @@ mettre à jour.
 ![image](https://user-images.githubusercontent.com/82539023/198571380-d3532af9-1750-474e-89e0-c9daee00928e.png)
 
 -- Implementation
-![image](https://user-images.githubusercontent.com/82539023/198567855-1af7fbfe-1b6f-43b6-87ed-9a140c42e742.png)
-
+![image](https://user-images.githubusercontent.com/82539023/198576421-d69e1990-e058-4a30-b57e-9457393de8c7.png)
 
 
 - Pour l’objet dessin, on voudrait définir les opérations suivantes :
@@ -56,3 +59,17 @@ qui les utilise.
  
  --- Strategy
 ![image](https://user-images.githubusercontent.com/82539023/198571629-2b74a4b0-4e8c-4349-a94e-4b1278915f3b.png)
+
+
+-- Dessin 
+![Capture](https://user-images.githubusercontent.com/82539023/198574279-6e75d748-c8fd-4607-a981-60e9fae5ab85.PNG)
+
+
+
+## Test 
+![image](https://user-images.githubusercontent.com/82539023/198576131-f0cd38c1-297c-49bd-afae-8c4ca7086282.png)
+
+![image](https://user-images.githubusercontent.com/82539023/198576043-0da58ff2-08bf-4152-8ee3-9ab737fb9b6b.png)
+
+
+
