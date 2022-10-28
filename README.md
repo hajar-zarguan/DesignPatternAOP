@@ -44,8 +44,7 @@ mettre à jour.
 ![image](https://user-images.githubusercontent.com/82539023/198571380-d3532af9-1750-474e-89e0-c9daee00928e.png)
 
 -- Implementation
-![image](https://user-images.githubusercontent.com/82539023/198567855-1af7fbfe-1b6f-43b6-87ed-9a140c42e742.png)
-
+![image](https://user-images.githubusercontent.com/82539023/198576421-d69e1990-e058-4a30-b57e-9457393de8c7.png)
 
 
 - Pour l’objet dessin, on voudrait définir les opérations suivantes :
@@ -68,7 +67,9 @@ qui les utilise.
 
 
 ## Test 
-![image](https://user-images.githubusercontent.com/82539023/198575436-e0cf2bd6-755f-4d93-a28f-e365313baef8.png)
+![image](https://user-images.githubusercontent.com/82539023/198576131-f0cd38c1-297c-49bd-afae-8c4ca7086282.png)
+
+![image](https://user-images.githubusercontent.com/82539023/198576043-0da58ff2-08bf-4152-8ee3-9ab737fb9b6b.png)
 
 
 
